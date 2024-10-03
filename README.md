@@ -8,7 +8,7 @@ TMDB Client is an Android application that allows users to browse popular movies
 ## Features
 
 -**Offline Support**: Cache data locally to ensure users can access previously viewed content without an internet connection.
-- **MVVM Architecture**: Built using the Model-View-ViewModel architectural pattern for better separation of concerns and easier testing.
+- **MVVM Clean Architecture**: Built using the Model-View-ViewModel architectural pattern for better separation of concerns and easier testing.
 - **Browse Popular Movies**: View a list of trending movies with details including titles, overviews, and poster images.
 - **Browse Popular TV Shows**: Explore the latest TV shows with rich information and images.
 - **Artist Profiles**: Access artist details and related works.
